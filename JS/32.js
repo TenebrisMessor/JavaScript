@@ -1,5 +1,5 @@
 //POO
-
+//Object literal
 const prodducto = {
     nombre: 'Tablet',
     precio: 500,
