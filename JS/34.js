@@ -16,6 +16,7 @@ class Producto {
 const producto = new Producto('monticor curvo de 49"', 800);
 const producto2 = new Producto('Lapto', 300)
 
+
 console.log(producto);
 console.log(producto2);
 console.log(producto.formatearProducto);
