@@ -1,5 +1,5 @@
 
-
+//Prototype
 
 const producto = {
     nombre: 'Tablet',
