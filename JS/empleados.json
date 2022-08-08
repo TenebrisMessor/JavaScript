@@ -13,12 +13,12 @@
         {
             "id" : 3, 
             "nombre": "Andy",
-            "puesto": "Programador Web"
+            "puesto": "Sever"
         },
         {
             "id" : 4, 
             "nombre": "Ale",
-            "puesto": "Programador Web"
+            "puesto": "Marketing"
         }
     ]
 }
